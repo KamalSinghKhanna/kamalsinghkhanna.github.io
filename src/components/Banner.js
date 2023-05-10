@@ -86,7 +86,7 @@ export const Banner = () => {
                     on building a strong skill set and apply those skills to help people
                     to create better technology.
                   </p>
-                  <a href="https://drive.google.com/file/d/18lKM426JeEt8W4aeMrOXGqx6DWnqpQgd/view?usp=sharing" target="_blank" className="text-decoration-none" rel="noopener noreferrer"><button>
+                  <a href="https://drive.google.com/file/d/1A7FYlx8cbDdExd15csfGG-G4W64VLgG9/view" target="_blank" className="text-decoration-none" rel="noopener noreferrer"><button>
                    View my Resume<ArrowRightCircle size={25} />
                   </button></a>
                 </div>
